@@ -123,6 +123,6 @@
 <script src="{{ Module::asset('blog:js/bootstrap.min.js') }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ Module::asset('blog:js/clean-blog.min.js') }}"></script>
+<script src="{{ Module::asset('blog:js/clean-blog.js') }}"></script>
 </body>
 </html>
