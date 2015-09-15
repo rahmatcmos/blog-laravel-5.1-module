@@ -3,7 +3,11 @@
 
 # Instalation
 
-This package require https://sky.pingpong-labs.com/docs/2.0/installation
+This package require the following dependencies: 
+
+https://sky.pingpong-labs.com/docs/2.0/installation
+
+https://github.com/anhskohbo/no-captcha
 
 
 In your modules folder run:
