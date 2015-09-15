@@ -12,5 +12,5 @@ https://github.com/anhskohbo/no-captcha
 https://github.com/prologuephp/alerts
 
 
-In your modules folder run:
+Inside your modules folder run:
 <pre><code>git clone https://github.com/mauri870/blog-laravel-5.1-module.git Blog</code></pre>
